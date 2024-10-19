@@ -1,28 +1,25 @@
-# awesome-robotics-foundation-models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Robotics-Foundation-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
-A collection of AWESOME works about **Robotics Foundation Models** and **Generalist Robot Policies**.
-
-Embodied AI is at the forefront of robotics research, focusing on developing intelligent systems that can interact with and adapt to the physical world. This repository offers a curated collection of research papers on robotics foundation models and generalist robot policies, exploring how these approaches contribute to the advancement of embodied AI. The goal is to provide researchers and practitioners with  the latest methodologies and foundational works driving progress in the field.
+This repository offers a curated collection of research papers on **Robotics Foundation Models** and **Generalist Robot Policies**, exploring how these approaches contribute to the advancement of embodied AI. The goal is to provide researchers and practitioners with  the latest methodologies and foundational works driving progress in the field.
 
 
 ## Table of Contents
 - [Awesome-Robotics-Foundation Models ](#awesome-robotics-foundation-models)
     - [Table of Contents](#table-of-contents)
     - [Datasets, Simulators, Benchmarks \& Surveys](#datasets-benchmarks--surveys)
-    - [Robotics Foundation Models](#robotics-foundation-models)
+    - [Foundation Models used for Robotics](#foundation-models-used-for-robotics)
     - [Generalist Robot Policies](#generalist-robot-policies)
     - [Applications](#applications)
     - [Others](#others)
-    - [Open-Sourced Work](#open-sourced-works)
+    - [Open-Sourced Works](#open-sourced-works)
 
 ## Datasets, Simulators, Benchmarks & Surveys
 
 <!-- (*'23*)
 [[project page]( ])] [[paper]()] -->
 
-## Robotics Foundation Models
-
+## Foundation Models used for Robotics
+(Git Repo) Awesome Generalist Robots via Foundation Models [[Paper List](https://github.com/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models)]
 ## Generalist Robot Policies
 
 ### 2022
@@ -59,7 +56,7 @@ Embodied AI is at the forefront of robotics research, focusing on developing int
 (*RSS'24*) Octo: An Open-Source Generalist Robot Policy
 [[project page](https://octo-models.github.io/])] [[paper](https://arxiv.org/abs/2405.12213)]
 
-(*CoRL'23*) OpenVLA: An Open-Source Vision-Language-Action Model
+(*CoRL'24*) OpenVLA: An Open-Source Vision-Language-Action Model
 [[project page](https://openvla.github.io/])] [[paper](https://arxiv.org/abs/2406.09246)]
 
 (*arxiv'24.09*) TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation
@@ -71,8 +68,6 @@ Embodied AI is at the forefront of robotics research, focusing on developing int
 (*arxiv 24.10*) RDT-1B: A Diffusion Foundation Model for Bimanual Manipulation
 [[project page]( ])] [[paper](https://arxiv.org/abs/2410.07864)]
 
-(*'23*)
-[[project page]( ])] [[paper]()]
 ## Applications
 
 ## Others
