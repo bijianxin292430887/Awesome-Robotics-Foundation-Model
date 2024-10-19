@@ -1,5 +1,6 @@
 # awesome-robotics-foundation-models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+
 A collection of AWESOME works about **Robotics Foundation Models** and **Generalist Robot Policies**.
 
 Embodied AI is at the forefront of robotics research, focusing on developing intelligent systems that can interact with and adapt to the physical world. This repository offers a curated collection of research papers on robotics foundation models and generalist robot policies, exploring how these approaches contribute to the advancement of embodied AI. The goal is to provide researchers and practitioners with  the latest methodologies and foundational works driving progress in the field.
@@ -17,8 +18,8 @@ Embodied AI is at the forefront of robotics research, focusing on developing int
 
 ## Datasets, Simulators, Benchmarks & Surveys
 
-(*'23*)
-[[project page]( ])] [[paper]()]
+<!-- (*'23*)
+[[project page]( ])] [[paper]()] -->
 
 ## Robotics Foundation Models
 
