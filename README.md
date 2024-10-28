@@ -21,17 +21,13 @@ This repository offers a curated collection of research papers on **Robotics Man
 (*ICLR'24*) Towards Diverse Behaviors: A Benchmark for Imitation Learning with Human Demonstrations
 [[project page](https://alrhub.github.io/d3il-website/)] [[paper](https://arxiv.org/html/2402.14606v1)]
 
-
 ## Foundation Models used for Robotics
 (Git Repo) Awesome Generalist Robots via Foundation Models [[Paper List](https://github.com/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models)]
 ## Generalist Robot Policies
 
-### 2022
 (*CoRL'22*) Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[project page](https://say-can.github.io/)] [[paper](https://arxiv.org/abs/2204.01691)]
 
 (*CoRL'22*) Inner Monologue: Embodied Reasoning through Planning with Language Models [[project page](https://innermonologue.github.io/)] [[paper](https://arxiv.org/abs/2207.05608)]
-
-### 2023
 
 (*RSS'23*) RT-1: Robotics Transformer for Real-World Control at Scale  [[project page](https://robotics-transformer1.github.io/)] [[paper](https://arxiv.org/abs/2212.06817)]
 
@@ -46,9 +42,6 @@ This repository offers a curated collection of research papers on **Robotics Man
 
 (*ICLR'24*) RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches
 [[project page](https://rt-trajectory.github.io/)] [[paper](https://arxiv.org/abs/2311.01977)]
-
-
-### 2024
 
 (*arxiv 24.03*) RT-H: Action Hierarchies Using Language
 [[project page](https://rt-hierarchy.github.io/)] [[paper](https://arxiv.org/abs/2403.01823)]
