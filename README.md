@@ -6,12 +6,13 @@ This repository offers a curated collection of research papers on **Robotics Man
 ## Table of Contents
 - [Awesome-Robotics-Foundation Models ](#awesome-robotics-foundation-models)
     - [Table of Contents](#table-of-contents)
-    - [Datasets, Simulators, Benchmarks \& Surveys](#datasets-benchmarks--surveys)
+    - [Datasets, Simulators \& Benchmarks](#datasets-simulators--benchmarks)
     - [Foundation Models used for Robotics](#foundation-models-used-for-robotics)
     - [Generalist Robot Policies](#generalist-robot-policies)
-    - [Applications](#applications)
+    - [Manipulation Foundation Models](#manipulation-foundation-models)
+    <!-- - [Applications](#applications)
     - [Others](#others)
-    - [Open-Sourced Works](#open-sourced-works)
+    - [Open-Sourced Works](#open-sourced-works) -->
 
 ## Datasets, Simulators & Benchmarks
 
